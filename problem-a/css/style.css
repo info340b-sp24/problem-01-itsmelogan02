@@ -1,0 +1,22 @@
+/*
+styles all body elements to be font 16. includes the children also  
+styles the font family to either Helvetica nue first, arial, or sans serif based on if 
+there are those specific fonts in order.
+*/
+body {
+    font-size: 16px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+p {
+    line-height: 1.5;
+}
+
+img {
+    max-height: 400px;
+}
+
+.first-bullet-point {
+    color: aqua;
+}
